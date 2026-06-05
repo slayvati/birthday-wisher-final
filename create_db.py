@@ -16,7 +16,7 @@ CREATE TABLE IF NOT EXISTS birthdays (
 cursor.execute("""
 INSERT INTO birthdays (name, birthday, image)
 VALUES
-('Maryline', '06-01', 'maryline.jpg'),
+('Maryline', '06-05', 'maryline.jpg'),
 ('anaya', '06-01', 'anaya.jpg'),
 ('Taylor', '12-13', 'taylor.jpg'),
 ('Priyanka', '07-18', 'priyanka.jpg')
